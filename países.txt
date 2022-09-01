@@ -1,17 +1,17 @@
-India: pib 2,623 trilhões USD, população 1,38 bilhão, área 3287263km², 69 anos, 
+India: pib 2,623 trilhões USD, população 1,38 bilhão, área 3287263km², 69 anos, idh 0,645
 
-Itália: pib 1,886 trilhões USD, população 60 317 116, área 301 338km², 84 anos,
+Itália: pib 1,886 trilhões USD, população 60 317 116, área 301 338km², 84 anos, idh 0,892
 
-Camboja: pib 25,29 bilhões USD, população 15288489, 181035 km², 65,2 anos
+Camboja: pib 25,29 bilhões USD, população 15288489, 181035 km², 65,2 anos, idh 0,494
 
-Congo: pib 49,87 bilhões USD, população 89,56 milhões, 2 344 858 km², 60,68 anos
+Congo: pib 49,87 bilhões USD, população 89,56 milhões, 2 344 858 km², 60,68 anos, idh 0,489
 
-Grécia: pib 189,4 bilhões USD, população 10816286, 11990km², 82 anos
+Grécia: pib 189,4 bilhões USD, população 10816286, 11990km², 82 anos, idh 0,855
 
-Peru: pib 202 bilhões USD, população 33105273, 1285220km², 70,44 anos
+Peru: pib 202 bilhões USD, população 33105273, 1285220km², 70,44 anos, idh 0,723
 
-Malawi: pib 11,96 bilhões USD, população 18091575, 118484km², 50 anos
+Malawi: pib 11,96 bilhões USD, população 18091575, 118484km², 50 anos, idh 0,385
 
-Iraque: pib 167,2 bilhões USD, população 40222503, 438317km², 69,62 anos
+Iraque: pib 167,2 bilhões USD, população 40222503, 438317km², 69,62 anos, idh 0,649
 
-Polônia: pib 594,2 bilhões, população 39100400, 312696km², 77,86 anos
+Polônia: pib 594,2 bilhões, população 39100400, 312696km², 77,86 anos, idh 0,88
