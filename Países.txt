@@ -1,0 +1,250 @@
+Trunfo
+Grupo 1:
+ 
+1-Rússia:              
+Pessoas:144,1 milhões
+Área:17.100.000 km²
+Idade mínima:72
+PIB:1,483 trilhão
+IDH:0,804 
+
+ 
+2-Estados Unidos:              
+Pessoas:329,5 milhões
+Área:9.834.000 km²
+Idade mínima:78
+PIB:20,94 trilhões
+IDH:0,926
+ 
+ 
+3-China:              
+Pessoas:1,402 bilhão
+Área:9.597.000 km²
+Idade mínima:74
+PIB:14,72 trilhões
+IDH:0,758
+ 
+
+4-Japão:              
+Pessoas:125,8 milhões
+Área:377.975 km²
+Idade mínima:84
+PIB:5,065 trilhões
+IDH:0,884
+ 
+
+5-Alemanha:              
+Pessoas:83,24 milhões
+Área:357.588 km²
+Idade mínima:81
+PIB:3,806 trilhões
+IDH:0,947
+ 
+
+6-França:             
+Pessoas:67,39 milhões
+Área:543.940 km²
+Idade mínima:83
+PIB:2,603 trilhões
+IDH:0.891
+ 
+ 
+7-Portugal:              
+Pessoas:10,31 milhões
+Área:92.212 km²
+Idade mínima:81
+PIB:231,3 bilhões
+IDH:0,864 
+ 
+
+8-Canadá:              
+Pessoas:38,01 milhões
+Área:9.985 km²
+Idade mínima:82
+PIB:1,643 trilhão
+IDH:0,929
+ 
+
+9-Reino Unido:              
+Pessoas:67,22 milhões
+Área:243.610 km²
+Idade mínima:81
+PIB:2,708 trilhões 
+IDH:0,849
+   
+
+10-Coreia do Sul:              
+Pessoas:51,78 milhões
+Área:100.210 km²
+Idade mínima:84
+PIB:1,631 trilhão
+IDH:0,877 
+
+ 
+11-Austrália:              
+Pessoas:25,69 milhões
+Área:7.688.000 km²
+Idade mínima:83
+PIB:1,331 trilhão
+IDH:0,944 
+ 
+ 
+12-Canadá:              
+Pessoas:38,01 milhões
+Área:9.985.000 km²
+Idade mínima:82
+PIB:1,643 trilhão
+IDH:0,929 
+
+ 
+13-México:              
+Pessoas:128,9 milhões
+Área:1.964.000 km²
+Idade mínima:75
+PIB:1,076 trilhão
+IDH:0,779
+
+ 
+14-Argentina:              
+Pessoas:45,38 milhões 
+Área:2.780.000 km²
+Idade mínima:75
+PIB:383,1 bilhões 
+IDH:0,845 
+ 
+
+15-Uruguai:              
+Pessoas:3,474 milhões
+Área:176.215 km²
+Idade mínima:77
+PIB:53,63 bilhões
+IDH:0,817 
+ 
+
+16-Brasil:              
+Pessoas:212,6 milhões
+Área:8.516.000 km²
+Idade mínima:76
+PIB:1,445 trilhão
+IDH:0,765
+
+
+17-Arábia Saudita:               
+Pessoas:34,81 milhões
+Área:2.150.000 km²
+Idade mínima:75
+PIB:700,1 bilhões
+IDH:0,752
+
+
+18-Holanda:               
+Pessoas:17,44 milhões
+Área:41.543 km²
+Idade mínima:82
+PIB:912,2 bilhões
+IDH:0,944
+
+
+19-Bélgica:              
+Pessoas:11,56 milhões 
+Área:30.688 km²
+Idade mínima:81
+PIB:515,3 bilhões
+IDH:0,867
+
+
+20-Espanha:               
+Pessoas:47,35 milhões
+Área:505.990 km²
+Idade mínima:83
+PIB:1,281 trilhão
+IDH:0,863
+
+
+21-Portugal:             
+Pessoas:10,31 milhões 
+Área:92.212 km²
+Idade mínima:81
+PIB:231,3 bilhões
+IDH:0,864
+
+
+22-Áustria:             
+Pessoas:8,917 milhões
+Área:83.871 km²
+Idade mínima:82
+PIB:429 bilhões
+IDH:0,851
+
+
+23-Paquistão:               
+Pessoas:220,9 milhões
+Área:796.095 km²
+Idade mínima:69
+PIB:263,7 bilhões
+IDH:0,550
+
+
+24-Irã:               
+Pessoas:83,99 milhões
+Área:1.648.000 km²
+Idade mínima:69
+PIB:191,7 bilhões
+IDH:0,702
+
+
+25-Turquia:               
+Pessoas:84,34 milhões
+Área:783.562 km²
+Idade mínima:78
+PIB:720,1 bilhões
+IDH:0,806
+
+
+26-Ucrania:              
+Pessoas:44,13 milhões
+Área:603.700 km²
+Idade mínima:66
+PIB:155,6 bilhões
+IDH:0,779
+
+
+27-Coreia do norte:               
+Pessoas:25,78 milhões
+Área:120.540 km²
+Idade mínima:75
+PIB:416,9 bilhões
+IDH:0,766 
+
+
+28-Síria:            
+Pessoas:17,5 milhões
+Área:185.180 km²
+Idade mínima:75
+PIB:40,41 bilhões
+IDH:0,885
+
+
+29-Armenia:            
+Pessoas:2,963 milhões
+Área:29.743 km²
+Idade mínima:75
+PIB:12,65 bilhões
+IDH:0,776
+
+
+30-Mauritania:             
+Pessoas:4,65 milhões
+Área:1.031.000 km²
+Idade mínima:63
+PIB:7,779 bilhões
+IDH:0,433
+
+
+
+
+
+ 
+ 
+
+
