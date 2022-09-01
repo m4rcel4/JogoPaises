@@ -3,39 +3,46 @@ Pessoas:56,772
 Área:2.166.000 km²
 Idade mínima:74
 PIB:3,052 bilhões(2018)
+idh:0,786
 
 2-Indonésia:
 Pessoas:273,5 milhões(2020)
 Área:1.905.000 km²
 Idade mínima:71,72 anos (2019)
 PIB:1,058 trilhão USD (2020)
+idh:0,600
 
 3-Argentina
 Pessoas:45,38 milhoes (2020)
 Área:2.780.000 km²
 Idade mínima:75,3
 PIB:383,1 bilhões USD (2020)
+idh:0,845
 
 4-Noruega
 Pessoas:5,379 milhões (2020)
 Área:385.207 km²
 Idade:80,6
 PIB:362 bilhões USD (2020)
+idh:0,957
 
 5-sudão
 Pessoas:43,85 milhões (2020)
 Área:1.861.000 km²
 Idade:69.1
 PIB:26,11 bilhões USD (2020)
+idh:0,510
 
 6-Nigeria
 Pessoas:206,1 milhão(2020)
 Área:923.768 km²
 Idade:55 anos
 PIB:432,3 bilhões
+idh:0,539
 
 7-New Caledonia
 Pessoas:271.960(2020)
 Área:18.519 km²
 Idade:77,63 anos (2019)
 PIB:2,682 bilhões USD (2000)
+idh:0,878
